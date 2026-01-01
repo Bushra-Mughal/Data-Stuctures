@@ -7,7 +7,7 @@ This repository includes the <b><i>most important data structures</i></b> used i
 💠Queue <br>
 💠Hashtable (dictionary) <br>
 💠General Tree <br>
-💠Binary Tree <br>
+💠Heap <br>
 💠Binary Search Tree <br>
 💠Graph <br>
 <b>Along with their operations and characterstics.</b>
